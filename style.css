@@ -3,8 +3,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
 
 :root{
-    --font1:var(Verdana, Geneva, Tahoma, sans-serif);
-    --font2:var('Luckiest Guy", cursive;');
+    --font1:Verdana, Geneva, Tahoma, sans-serif;
+    --font2: 'Luckiest Guy", cursive;';
+    
 }
 * {
   margin: 0;

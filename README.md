@@ -1,2 +1,3 @@
 # Background practice
- Pratica de Backgroud
+ Pratica de Background
+ Project in progress ==> https://sauldevjr.github.io/Background-practice/
